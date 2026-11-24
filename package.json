@@ -1,0 +1,13 @@
+{
+  "name": "abasthan-warp",
+  "version": "1.0.0",
+  "description": "Cloudflare WARP Egress Node for Abasthan PaaS",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

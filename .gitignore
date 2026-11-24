@@ -1,0 +1,5 @@
+node_modules
+bin/sb.tar.gz
+bin/sing-box
+sing-box-config.json
+config.json
